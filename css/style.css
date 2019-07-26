@@ -41,7 +41,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #61c8ff;
 		text-decoration: none;
 	}
 
@@ -366,7 +366,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #49bf9d;
+			border-color: #61c8ff;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -817,8 +817,8 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #61c8ff;
+			color: #61c8ff !important;
 		}
 
 		input[type="submit"]:active,
@@ -826,8 +826,8 @@
 		input[type="button"]:active,
 		.button:active {
 			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #61c8ff;
+			color: #61c8ff !important;
 		}
 
 		input[type="submit"].icon,
@@ -872,8 +872,8 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #49bf9d;
-			border-color: #49bf9d;
+			background-color: #61c8ff;
+			border-color: #61c8ff;
 			color: #ffffff !important;
 		}
 
