@@ -231,7 +231,7 @@
 		-o-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #61c8ff;
+		background: #f7f7f7;
 		border-radius: 0.35em;
 		border: solid 2px transparent;
 		color: inherit;
@@ -255,7 +255,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #49bf9d;
+			border-color: #61c8ff;
 		}
 
 	.select-wrapper {
